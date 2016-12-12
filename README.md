@@ -1,7 +1,5 @@
-parallax2d
-==========
-
 Sidle Scroll Action Game (Unity3D Parallax Example)
+===================================================
 
 Thank you for buying this package!
 For those who want to make an action game for the first time will help.
